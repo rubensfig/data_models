@@ -1,0 +1,3 @@
+Required package => goyang
+/home/rubens/go/bin/goyang --ignore-circdep --format proto --path .,/home/rubens/code/models/yang/standard/ietf/RFC --proto_flat --proto_dir ~/code/models/converted/ table-management.yang
+
