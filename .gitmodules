@@ -1,3 +1,6 @@
 [submodule "yang"]
 	path = yang
 	url = https://github.com/YangModels/yang
+[submodule "public"]
+	path = public
+	url = https://github.com/openconfig/public
